@@ -59,7 +59,7 @@ function printC(num, arr) {
   }
 }
 // Q: What is the space complexity of the function?
-// ANSWER: LINEAR O(n)
+// ANSWER: QUADRATIC O(n^2)
 
 
 // 6) -------------------------------------------------------
@@ -72,7 +72,7 @@ function nested(numbers) {
 }
 
 // Q: What is the space complexity of this function?
-// ANSWER: LINEAR O(n)
+// ANSWER: QUADRATIC O(n^2)
 
 
 // 7) -------------------------------------------------------
